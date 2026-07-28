@@ -1,0 +1,15 @@
+<htlm>
+  <head>
+    <title>Hello World!</title>
+  </head>
+  <body>
+  <h1>Hello World!, Nama Saya Putri</h1>
+  <P Style="color:blue;"> Ini adalah hari pertama saya belajar HTML, Saya ingin menjadi web developer yang hebat di masa depan</p>
+<h3>Biodata Singkat</h3>
+<ul>
+  <li>Nama Lengkap: Putri Handini Monawaroh</li>
+  <li>Kelas: X RPL A</li>
+  <li>Hobi: Menulis </li>
+</ul>
+</body>
+</html>
